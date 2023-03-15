@@ -3,7 +3,9 @@ An interactive web application for Skin Image Segmentation, Leprosy Detection an
 
 ## Application
 ![Component 1](img/Sample_1.png)
+
 ![Component 2](img/Sample_2.png)
+
 ![Component 3](img/Sample_3.png)
 
 ## Usage
