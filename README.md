@@ -10,10 +10,14 @@ An interactive web application for Skin Image Segmentation, Leprosy Detection an
 
 ## Usage
 
+Model checkpoints can be accessed through request, and must be saved under model folder.
+
+
 Run to  download pacakges required
 ```
 pip install -r requirments.txt
 ```
+
 
 Run the application locally using
 
